@@ -1,0 +1,10 @@
+D:\C#\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\C#\MyWordPad\obj\Debug\MyWordPad.Form1.resources
+D:\C#\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\C#\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\C#\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\C#\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\C#\MyWordPad\bin\Debug\MyWordPad.exe
+D:\C#\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\C#\MyWordPad\obj\Debug\MyWordPad.exe
+D:\C#\MyWordPad\obj\Debug\MyWordPad.pdb
